@@ -59,6 +59,10 @@ label1 = Label(menu, text="Este é o label 1",
 ```
 Para inserir emojis, coloque o nome do emoji após os dois pontos ou escolha de uma lista 👍
 
+Links utéis para emojis
+- [emojipedia](https://emojipedia.org/)
+- [ikatyang](https://github.com/ikatyang/emoji-cheat-sheet)
+
 Para marcar um perfil no GitHub coloque o "@" seguido do nome do perfil. Um bom repositório de emojis é o repositório @ikatyang
 
 Para inserir quote coloque ">"
@@ -86,7 +90,7 @@ Para citar um perfil digite @nome do perfil
 > Advises about risks or negative outcomes of certain actions.
 
 <!-- Comentário --!>
+<!-- Para ignorar formatação de markdown coloque \ antes dos marcadores --!>
 
-Para ignorar formatação de markdown coloque \ antes dos marcadores
 
-
+Mais informações em https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax

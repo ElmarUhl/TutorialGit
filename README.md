@@ -1,3 +1,3 @@
 Hello!
 
-Welcome to my GitHub Repository
+Welcome to my GitHub tutorial repository
